@@ -14,7 +14,7 @@
   "source": {
     "git": "https://github.com/erincatto/Box2D.git"
   },
-  "source_files": "Box2D/**/*.{h,cpp}",
+  "source_files": "Box2D/Box2D/**/*.{h,cpp}",
   "header_mappings_dir": "Box2D",
   "requires_arc": false
 }
