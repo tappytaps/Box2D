@@ -3,6 +3,9 @@
   "license": {
     "type": "zlib"
   },
+    "platforms": {
+    "ios": "8.0"
+  },
   "version": "2.3.0",
   "summary": "Box2D is an open source C++ engine for simulating rigid bodies in 2D.",
   "description": "Box2D is an open source C++ engine for simulating rigid bodies in 2D. Box2D is developed by Erin Catto and has the zlib license. While the zlib license does not require acknowledgement, we encourage you to give credit to Box2D in your product.",
